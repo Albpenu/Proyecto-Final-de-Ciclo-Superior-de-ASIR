@@ -1,1 +1,1 @@
-# MiniShift.-Proyecto-Final-de-Ciclo-Superior-de-ASIR
+# MiniShift. Proyecto Final de Ciclo Superior de ASIR
